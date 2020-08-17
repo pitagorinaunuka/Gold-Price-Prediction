@@ -9,6 +9,6 @@ dataset of values of response and explanatory variables. The most important uses
 2 of the linear regression algorithm are: determining the strength of predictors ,
 forecasting an effect and trend forecasting.
 The hypothesis function used in linear regression model is represented by:
-y = q0 + q1x,
+                      y = q0 + q1x,
 where q0 and q1 are parameters. The main goal is to minimize the cost function:
-J(q0,q1) = 1⁄2*m åi=1 (hq(xi) - yi)2
+                J(q0,q1) = 1⁄2*m åi=1 (hq(xi) - yi)2
