@@ -10,5 +10,4 @@ dataset of values of response and explanatory variables. The most important uses
 forecasting an effect and trend forecasting.
 The hypothesis function used in linear regression model is represented by:
                       y = q0 + q1x,
-where q0 and q1 are parameters. The main goal is to minimize the cost function:
-                J(q0,q1) = 1⁄2*m åi=1 (hq(xi) - yi)2
+where q0 and q1 are parameters. The main goal is to minimize the cost function.
